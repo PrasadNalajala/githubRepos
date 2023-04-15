@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.btnContainer {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: cover;
+  padding: 5px;
+  margin: 15px;
+}
+.languageBtn {
+  border: none;
+  background-color: transparent;
+
+  font-weight: bold;
+}
+.activeTab {
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #0284c7;
+}
+.activeBtn {
+  color: #0284c7;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.heading {
+  color: #0f122a;
+  font-family: 'Lobster';
+  text-align: center;
+  font-size: 40px;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.languageBtnContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.reposContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.failed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

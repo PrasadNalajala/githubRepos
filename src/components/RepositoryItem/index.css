@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.repoImg {
+  height: 130px;
+}
+.repoName {
+  font-size: 20px;
+  color: #e73959;
+}
+.repoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  padding: 10px;
+  padding-top: 4%;
+}
+p {
+  color: #1e293b;
+  height: 15px;
+}
+.repoIcon {
+  height: 15px;
+  padding-right: 8px;
+}
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  margin: 4px;
+}
